@@ -1,6 +1,7 @@
 <h1>Shoe Inventory</h1>
 
-Welcome to Shoe Inventory, a simple and easy-to-use application for shoe retailers to track product inventory.
+Welcome to Shoe Inventory, a simple and easy-to-use application for shoe retailers to track product inventory.\
+_Note: This project was written for a task on HyperionDev’s Software Engineering course to demonstrate understanding of OOP. It is not intended for use by the general public._
 
 <h2>🌟 Features</h2>
 
